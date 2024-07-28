@@ -93,6 +93,28 @@ PRC:
   https://github.com/q315523275/FamilyBucket/tree/master/src/Rpc
   https://github.com/hprose/hprose-dotnet
   https://github.com/RabbitTeam/RabbitCloud
+  https://github.com/yswenli/SAEA
+  https://github.com/Code-Sharp/WampSharp
+  https://github.com/Astn/JSON-RPC.NET
+  https://github.com/Coldairarrow/DotNettyRPC
+  https://github.com/tylerjensen/ServiceWire
+  https://github.com/AutoCSer/AutoCSer
+  https://github.com/edjCase/JsonRpc
+  https://github.com/Bobris/BTDB
+  https://github.com/Bian-Sh/TinyRPC
+  https://github.com/amitwaisel/Malproxy
+  https://github.com/gaochundong/Redola
+  https://github.com/ipjohnson/EasyRpc
+  https://github.com/icerpc/icerpc-csharp
+  https://github.com/softlgl/DotNetCoreRpc
+  https://github.com/zyanfx/Zyan
+  https://github.com/steveleeCN87/doteasy.rpc
+  https://github.com/DonnYep/CosmosEngine
+  https://github.com/theRainbird/CoreRemoting
+  https://github.com/InCerryGit/SatelliteRpc
+  https://github.com/ch00486259/Socean.Rpc-v1
+  https://github.com/CXuesong/JsonRpc.Standard
+  https://github.com/seaeagle1/EasyPipes
   
 Actor:
   
