@@ -115,6 +115,7 @@ PRC:
   https://github.com/ch00486259/Socean.Rpc-v1
   https://github.com/CXuesong/JsonRpc.Standard
   https://github.com/seaeagle1/EasyPipes
+  https://github.com/hikalkan/scs
   
 Actor:
   
