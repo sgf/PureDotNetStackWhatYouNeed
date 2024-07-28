@@ -91,6 +91,7 @@ PRC:
   https://github.com/luyikk/NetX
   https://github.com/RRQM/TouchSocket
   https://github.com/q315523275/FamilyBucket/tree/master/src/Rpc
+  https://github.com/hprose/hprose-dotnet
   
 Actor:
   
