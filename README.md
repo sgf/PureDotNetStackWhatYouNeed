@@ -37,6 +37,7 @@ APM/Metrics/Trace/Audit/Monitor:
   https://github.com/AppMetrics/Health
   https://github.com/hellzerg/observer
   https://github.com/thepirat000/Audit.NET
+  https://github.com/AspectCore/AspectCore-Metrics-Obsolete
   
   https://github.com/microsoft/Tx
     LINQ to Logs and Traces
