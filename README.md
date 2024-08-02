@@ -10,6 +10,7 @@ distributed app:
 
 
 APM/Metrics/Trace/Audit/Monitor:
+ https://github.com/dotnet/dotnet-monitor
   https://github.com/opserver/Opserver
   https://github.com/dotnetcore/HttpReports
   https://github.com/tpeczek/dotnet-server-timing
